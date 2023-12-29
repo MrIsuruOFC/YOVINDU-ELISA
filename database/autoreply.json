@@ -1,4 +1,12 @@
 {
- "massage" : ["nima","elisa"],
- "reply_massage" : ["who is call my owner.","Who is call me."]
+ "massage" : [
+"isuru",
+"elisa",
+"yovindu"
+],
+ "reply_massage" : [
+"*Who is call my owner.💀*",
+"*Who is call me.💃*",
+"*Who is call this nb owner.😶*"
+]
 }
