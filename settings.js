@@ -85,7 +85,7 @@ global.owner = ['94766632281']
 //👇 Your Caption ( Image Video )
 global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴇʟɪꜱᴀ-ᴍᴅ'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 𝛁' 
 //👇 Your name
 global.ownernma =  '『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』' 
 //👇 Sticker Author Name
@@ -119,7 +119,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 *ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
 *ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
 
-*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ*
+*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ_ᴄᴍ*
 
 *Thanks for using Me.*`
 //👇 Welcome Mesaage
@@ -135,7 +135,7 @@ global.NO_BLOCK = ["94766632281","94743405787"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia","porn","xnxx"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
-global.CHATGPT_API = ''
+global.CHATGPT_API = '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'
 //👇 Sex  video Download Allowed Groups
 global.SEX_DOWNLOAD_GROUPS = ['']
 //👇 Your Bot Group Link
