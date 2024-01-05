@@ -83,7 +83,7 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴇʟɪꜱᴀ-ᴍᴅ'
+global.cap = '► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 𝛁' 
 //👇 Your name
@@ -119,7 +119,7 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
 *ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
 *ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
 
-*ᴘᴏᴡᴇʀᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ_ᴄᴍ*
+*► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*
 
 *Thanks for using Me.*`
 //👇 Welcome Mesaage
