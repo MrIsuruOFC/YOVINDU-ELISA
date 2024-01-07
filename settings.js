@@ -60,7 +60,7 @@ global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = true 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
-global.DISABLE_INBOX_MESSAGE_SEND = true
+global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
@@ -83,11 +83,11 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94766632281'] 
 //👇 Your Caption ( Image Video )
-global.cap = '► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ'
+global.cap = '► *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴏꜰᴄ*'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 𝛁' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃' 
 //👇 Your name
-global.ownernma =  '『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』' 
+global.ownernma =  'ᴍʀ ɪꜱᴜʀᴜ x' 
 //👇 Sticker Author Name
 global.packname =  'ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ' 
 //👇 Inbox Block Massage 
@@ -109,19 +109,30 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/58dZphD/20231228-195502.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Hello I am Alive Now !*
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝙃𝙚𝙮, 𝙞'𝙢 𝙖 𝙒𝘼 𝙗𝙤𝙩 👾
 
+⦁ *I'm working on this time.* 🔥
+⦁ *I'll help you as much as I can.* 😊
+_____________________
 
-*ʙᴏᴛ ɴᴀᴍᴇ* : Qᴜᴇᴇɴ ᴇʟɪꜱᴀ-ᴍᴅ
-*ᴠᴇʀꜱɪᴏɴ* : 3.9.7
-*ʙᴏᴛ ᴏᴡɴᴇʀ* : 『 ᴍʀ | ɪꜱᴜʀᴜ ᴄᴍ 』
-*ɴᴜᴍʙᴇʀ* : http://Wa.me/+94766632281
-*ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ* : https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
-*ɢɪᴛʜᴜʙ* : github.com/MrIsuruOFC
+*✑ Songs downloading,*
+*✑ Videos downloading,*
+*✑ APK downloading,*
+*✑ Chat with GPT*
+*✻ And you can get many more features.*
+_____________________
 
-*► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*
+• *𝙱𝙾𝚃 𝙽𝙰𝙼𝙴* : 𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃
+• *𝙱𝙾𝚃 𝙳𝙴𝚅𝙴𝚁𝙻𝙾𝙿𝙴𝚁* : ᴍʀ ɴɪᴍᴀ x
+_(https://github.com/DarkMakerofc)_
+• *𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁* : ᴍʀ ɪꜱᴜʀᴜ x
+_(https://github.com/MrIsuruOFC)_
+• *𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿* : _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
+_____________________
 
-*Thanks for using Me.*`
+✧ *If you have a problem, notify to me* : _https://wa.me/+94766632281?text=_ʜᴇʏ_ɪꜱᴜʀᴜ🐼💞_
+_____________________
+*► ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴏꜰᴄ*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
